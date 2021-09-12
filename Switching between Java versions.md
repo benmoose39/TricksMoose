@@ -1,9 +1,10 @@
 [🔙 cd $HOME](https://benmoose39.github.io/TricksMoose)
 
-<h1>Changing Java versions</h1>
+<h1>Switching between different Java versions</h1>
 <p><i>There can be situations when we need to switch between java versions. Here I showcase a method where you can switch between different versions of java in <b>ubuntu</b> and <b>kali</b>.
   </i></p>
 
+### hello
 <h2> The easy way </h2>
   
 `sudo apt install openjdk-8-jre` (Ubuntu)
