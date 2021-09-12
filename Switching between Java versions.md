@@ -11,3 +11,5 @@
 
 - See where the binary is linked to:
 > `ls -l $(which java)`
+![image](https://user-images.githubusercontent.com/29022864/132993428-4e8ffa02-2b64-4c78-88c3-67121088d14a.png)
+
