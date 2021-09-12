@@ -1,7 +1,7 @@
 [🔙 cd $HOME](https://benmoose39.github.io/TricksMoose)
 
 <h1>Switching between different Java versions</h1>
-There can be situations when we need to switch between java versions. Here I showcase two methods where you can switch between different versions of java in **ubuntu** and <b>kali</b>.
+_There can be situations when we need to switch between java versions. Here I showcase two methods where you can switch between different versions of java in **ubuntu** and **kali**._
 
 
 ### The easy way
