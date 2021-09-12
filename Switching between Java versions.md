@@ -16,7 +16,7 @@
 
 
 ### The hard way 😁 
-<h4>Switching from 1.1x.x to 1.8.0</h4>
+
 - Check the version with:
 
 > `java -version`
