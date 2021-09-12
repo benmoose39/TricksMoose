@@ -4,7 +4,7 @@
 <p><i>There can be situations when we need to switch between java versions. Here I showcase a method where you can switch between different versions of java in <b>ubuntu</b> and <b>kali</b>.
   </i></p>
 
-<details><summary> The easy way </summary>
+<h2> The easy way </h3>
   
 `sudo apt install openjdk-8-jre` (Ubuntu)
   
@@ -13,10 +13,10 @@
   
 > ![image](https://user-images.githubusercontent.com/29022864/132997133-9ca76672-f292-41af-9689-57f406c052ac.png)
 
-</details>
 
-<details><summary> The hard way 😁 </summary>
-<h3>Switching from 1.1x.x to 1.8.0</h3>
+
+<h2> The hard way 😁 </h2>
+<h4>Switching from 1.1x.x to 1.8.0</h4>
 - Check the version with:
 > `java -version`
 ![image](https://user-images.githubusercontent.com/29022864/132988214-e55aab98-94b1-4efe-aeca-8556b72393c5.png)
@@ -48,4 +48,3 @@ Checking the version of this binary:
 > `ln -sf $(pwd)/java /etc/alternatives/java`
 ![image](https://user-images.githubusercontent.com/29022864/132995971-e98cee10-0c03-46f5-90ae-eb331afc2668.png)
 
-</details>
