@@ -4,7 +4,7 @@
 <p><i>There can be situations when we need to switch between java versions. Here I showcase a method where you can switch between different versions of java in <b>ubuntu</b> and <b>kali</b>.
   </i></p>
 
-<h2> The easy way </h3>
+<h2> The easy way </h2>
   
 `sudo apt install openjdk-8-jre` (Ubuntu)
   
