@@ -27,7 +27,8 @@ _There can be situations when we need to switch between java versions. Here I sh
 > `ls -l $(which java)`
 ![image](https://user-images.githubusercontent.com/29022864/132993428-4e8ffa02-2b64-4c78-88c3-67121088d14a.png)
 Here it is linked to ```/etc/alternatives/java```
-`ls -l /etc/alternatives/java`
+
+> `ls -l /etc/alternatives/java`
 ![image](https://user-images.githubusercontent.com/29022864/132994734-6ebf383b-4325-45ad-80a2-1af023357b15.png)
 
 - `cd /usr/lib/jvm/` and list the files:
