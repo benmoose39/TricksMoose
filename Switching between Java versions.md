@@ -1,4 +1,4 @@
-[🔙 cd $HOME](https://benmoose39.github.io/TricksMoose)
+[🔙 cd $HOME](https://benmoose39.github.io/TricksMoose/index)
 
 <h1>Switching between different Java versions</h1>
 _There can be situations when we need to switch between java versions. Here I showcase two methods where you can switch between different versions of java in **ubuntu** and **kali**._
